@@ -1,0 +1,8 @@
+Forwarder no canal RFCOMM 1 -> gateway 127.0.0.1:10000
+[+] Cliente Bluetooth conectado: ('60:68:4E:DF:A3:43', 1)
+[BT->GW] 08040401003c6331
+[GW->BT] 030500
+[BT->GW] 0c0a000000012f7465737465
+[GW->BT] 0218
+[BT->GW] 090c00000100006f69
+[GW->BT] 0218
